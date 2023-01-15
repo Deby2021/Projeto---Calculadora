@@ -1,3 +1,11 @@
-# Calculator project :iphone: 
+# **Calculator project** :iphone: 
 
-###T
+> ### Technologies involved
+>>HMTL
+
+>>CSS
+
+>>JAVASCRIPT - JS6
+
+### [Curso Full Stack - OneBitCode](https://onebitcode.com/lp/)
+
